@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**Vanga0/Vanga0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="header" align="center" id="badges">
+  <a href="https://vk.com/vanga0">
+  <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+  <a href="https://t.me/Vagan98">
+  <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  <div>
+  <img src="https://komarev.com/ghpvc/?username=Vanga0&style=flat-square&color=blue" alt=""/>
+</div>
+<h1> <div id="header" align="center" >
+  Hey there!!!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </div>
+</h1>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+</div>
+ :woman_technologist: About Me :
+   I am a Junior IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
+ 
+- :telescope: I am a senior at the institute and studying swift.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+  :hammer_and_wrench: Languages and Tools : 
+    <div> 
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40" /> &nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40" /> &nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" /> &nbsp;
+    </div>
+---
+    
+                                                                                                                                               
